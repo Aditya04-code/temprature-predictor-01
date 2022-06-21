@@ -1,3 +1,20 @@
+<H1>Temprature-predictor</H1>
+we use the basics like HOOKS,COMPONENTS,USESTATE() in React
+The user can Increment/Decrement the temprature and Background image will change accordingly
+
+<H2>While the temprature was HOT !!</H2>
+we can see the change in background to icy 
+
+![image](https://user-images.githubusercontent.com/74897921/174882536-dfd806a6-ae9e-4b78-9488-1a9aff29c26d.png)
+
+<H2>While the temprature was COLD !!</H2>
+we can see the change in background to fire
+
+![image](https://user-images.githubusercontent.com/74897921/174882956-76e2a7d0-f77e-422a-b938-5c7b803e26bc.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
